@@ -1,0 +1,6 @@
+[requires]
+glfw/3.3.5
+glad/0.1.35
+
+[generators]
+visual_studio
